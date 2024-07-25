@@ -20,6 +20,7 @@ My name is **Kovalev Alexandr**.
   <img src="https://devhero.app/images/project-2.png" width="40"/>
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/96/python_18894.png" width="40"/>
   <img src="https://img.icons8.com/?size=1x&id=21813&format=png" width="40"/>
+  <img src="https://habrastorage.org/getpro/habr/hub/c7b/d1f/e2c/c7bd1fe2caaab0146447a554bd9c3712.jpg" width="40"/>
 </div>
 
 ---
